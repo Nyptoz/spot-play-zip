@@ -1,0 +1,5 @@
+.venv/
+.spotpl_tmp/
+__pycache__/
+downloads/
+*.log
